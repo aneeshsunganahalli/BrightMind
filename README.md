@@ -29,15 +29,22 @@
 
 ---
 
-## 🧱 Tech Stack
+### 🧱 Tech Stack
 
-| Tech               | Purpose                             |
-|--------------------|--------------------------------------|
-| 🌐 Next.js         | Web Frontend                        |
-| 📱 React Native    | Mobile Application                  |
-| 🐍 Django REST     | Backend API Framework               |
-| 🗃️ SQLite          | Lightweight, portable database       |
-| 🤖 Gemini 2.0 Flash| LLM for AI content & interaction    |
+**Frontend**  
+- 🌐 [Next.js](https://nextjs.org/) – React-based framework for server-side rendering and static websites  
+- 📱 [React Native](https://reactnative.dev/) – Cross-platform mobile app development  
+
+**Backend**  
+- 🐍 [Django REST Framework](https://www.django-rest-framework.org/) – Flexible and powerful framework for building Web APIs  
+- 🗃️ [SQLite](https://sqlite.org/) – A lightweight database for embedded apps  
+
+**AI Engine**  
+- 🤖 [Gemini 2.0 Flash](https://google.com) – AI model used for content generation (summaries, quizzes, chat)  
+
+**Other Tools**  
+- 🔒 [JWT](https://jwt.io/) – Secure token-based authentication  
+
 
 ---
 
