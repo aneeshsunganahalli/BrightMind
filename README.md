@@ -42,9 +42,6 @@
 **AI Engine**  
 - 🤖 [Gemini 2.0 Flash](https://google.com) – AI model used for content generation (summaries, quizzes, chat)  
 
-**Other Tools**  
-- 🔒 [JWT](https://jwt.io/) – Secure token-based authentication  
-
 
 ---
 
@@ -72,7 +69,7 @@ npm run dev
 ### Mobile - React Native
 
 ```bash
-cd mobile
+cd Appdev
 npm install
 npx react-native run-android  # or run-ios
 ```
