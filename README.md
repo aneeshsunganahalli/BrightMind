@@ -1,7 +1,7 @@
 # BrightMind 💡
 ## Empowering Rural Education with AI
 
-![BrightMind Homepage]()
+![BrightMind Homepage](./1.jpeg)
 
 **BrightMind** is an innovative AI-powered educational platform bridging the digital divide in rural and under-resourced communities. By harnessing the capabilities of Gemini 2.0 Flash, we're transforming how educational content is accessed, understood, and utilized in areas with limited resources.
 
@@ -15,7 +15,8 @@ BrightMind aims to democratize quality education by providing intelligent, acces
 
 ### AI-Powered Content Generation
 
-![Content Generation Page]()
+![Content Generation Page](./5.jpeg)
+![Content Generation Page](./6.jpeg)
 
 Transform complex educational materials into engaging, easy-to-understand formats:
 - **Smart Summaries** — Distill lengthy textbooks into concise, comprehensive summaries
